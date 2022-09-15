@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [www.julienlemee.com](www.julienlemee.com)
+- 👨‍💻 All of my projects are available at [http://www.julienlemee.com](www.julienlemee.com)
 
 - 📫 How to reach me **julemee@gmail.com**
 
