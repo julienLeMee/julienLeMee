@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
+- 👾 You can find a way of my portfolio here : [https://julienlemee.itch.io](https://julienlemee.itch.io)
+
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [www.julienlemee.com](http://www.julienlemee.com)
