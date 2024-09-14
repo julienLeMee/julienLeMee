@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm JULIEN</h1>
 <h3 align="center">A passionate full-stack web developer from Montréal</h3>
 <br/>
-- 💻 Full Stack web developer
 
-- 🚀 Teacher Assistant at **Le Wagon Montréal** (batch #1058)
-
-- 👨‍💻 All of my projects are available at [www.julienlemee.com](http://www.julienlemee.com)
+- 🚀 All of my projects are available at [www.julienlemee.com](http://www.julienlemee.com)
 
 - 👾 You can find a way of my portfolio here : [https://julienlemee.itch.io](https://julienlemee.itch.io)
 
